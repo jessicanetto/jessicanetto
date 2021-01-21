@@ -1,7 +1,7 @@
-### I'm Jessica 👩🏽‍💻
+### Hello, I'm Jessica 👩🏽‍💻
 
    
-## Neuroscientist 🧠  & FSW Developer 🖥
+##     Neuroscientist 🧠  & FSW Developer 🖥
 
 ### ✨ fascinated by artificial intelligence & neuro-technology✨
 
