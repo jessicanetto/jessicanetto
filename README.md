@@ -4,6 +4,6 @@
 <p> FSW Developer  🖥  </p>  
 <p> Neuroscientist  🧠 </p>
 <p> Martial Artist 🥋 </p>
-###<p> ✨ fascinated by artificial intelligence & neuro-technology✨ </p>
+<p> ✨ fascinated by artificial intelligence & neuro-technology✨ </p>
 
 
